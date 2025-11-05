@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:  Adhithya K     </h3>
-<h3>Register Number:  2305002001         </h3>
+<h3>Name:  Balaji SK     </h3>
+<h3>Register Number:  2305003001         </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -187,3 +187,6 @@ SAMPLE OUTPUT
 ![435098114-175123a9-8519-4ec4-b3f6-1151b674380d](https://github.com/user-attachments/assets/91f98b2e-c195-45de-9dbf-19bc17dbfb8f)
 
 ## RESULT
+
+Thus, the program successfully finds the shortest path from the start node to the goal node using the A* algorithm.
+
